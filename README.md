@@ -1,0 +1,1 @@
+Welcome to my Verilog HDL repository! This repository contains basic Verilog projects and files that showcase fundamental concepts and practical implementations in digital design and hardware description.
